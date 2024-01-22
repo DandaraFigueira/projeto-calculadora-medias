@@ -1,4 +1,5 @@
-function adicionarContato() {
+function adicionarContato() 
+    {
     //pegando oa valores do input
     var nome = document.getElementById("nome").value;
     var email = document.getElementById("email").value;
